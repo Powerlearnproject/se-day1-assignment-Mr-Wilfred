@@ -44,4 +44,4 @@ Prompt engineering is a crucial skill for effectively interacting with AI models
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: "Tell me about health."
 Improved Prompt... Clear, Specific, and Concise Prompt: "Explain the importance of a balanced diet and regular exercise for maintaining good health, and provide practical tips for incorporating these habits into a daily routine."
-The improved prompt is more effective because it provides clear, specific, and concise instructions, guiding the AI to generate a focused and relevant response
+The improved prompt is more effective because it provides clear, specific, and concise instructions, guiding the AI to generate a focused and relevant response.
